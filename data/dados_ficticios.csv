@@ -1,0 +1,31 @@
+data,descricao,categoria,tipo,valor
+2026-01-05,Faturamento Serviços B2B,Receita Bruta,Entrada,85000.00
+2026-01-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,9350.00
+2026-01-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,18500.00
+2026-01-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,28000.00
+2026-01-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,9500.00
+2026-02-05,Faturamento Serviços B2B,Receita Bruta,Entrada,92000.00
+2026-02-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,10120.00
+2026-02-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,20200.00
+2026-02-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,28000.00
+2026-02-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,9800.00
+2026-03-05,Faturamento Serviços B2B,Receita Bruta,Entrada,78000.00
+2026-03-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,8580.00
+2026-03-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,17100.00
+2026-03-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,28000.00
+2026-03-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,11200.00
+2026-04-05,Faturamento Serviços B2B,Receita Bruta,Entrada,105000.00
+2026-04-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,11550.00
+2026-04-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,23100.00
+2026-04-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,31000.00
+2026-04-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,10500.00
+2026-05-05,Faturamento Serviços B2B,Receita Bruta,Entrada,112000.00
+2026-05-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,12320.00
+2026-05-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,24600.00
+2026-05-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,31000.00
+2026-05-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,10800.00
+2026-06-05,Faturamento Serviços B2B,Receita Bruta,Entrada,120000.00
+2026-06-10,Impostos sobre Faturamento (Simples/ISS),Impostos,Saida,13200.00
+2026-06-15,Comissões e Custos Diretos Projeto,Custo Variavel,Saida,26400.00
+2026-06-20,Folha de Pagamento e Encargos,Despesa Fixa,Saida,31000.00
+2026-06-25,Aluguel Software e Infraestrutura,Despesa Fixa,Saida,11000.00
